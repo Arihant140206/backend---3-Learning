@@ -1,0 +1,10 @@
+Steps to setup and use for backend 
+1- make a folder with any name 
+2- go to terminal and paste this - {express myapp --view=ejs}
+3-then in tyerminal do - cd myapp 
+4-install nodemon - from chrome copy to terminal 
+5-install mongoose from chrome
+6-install mongoDB just in case aagain - ask chatgpt step by step for mac - it will taek a lil time
+7-if the routes in mongodb code dosnt work , use the mongoDB compass already installed in system 
+and connect to the localhost by pasting the link u use . 
+8-then simply run the code 
